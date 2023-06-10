@@ -33,14 +33,9 @@ main{
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 627px;
-    width: 311px;
+    height: 550px;
+    width: 273px;
     background-image: url(pacote-d013/imagens/frame-iphone.png);
     background-repeat: no-repeat;
 }
 
-iframe{
-    padding: 0px;
-    margin: 0px;
-    height: 94%;
-}
